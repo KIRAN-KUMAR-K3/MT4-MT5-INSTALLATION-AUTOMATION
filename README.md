@@ -95,14 +95,6 @@ MT4-MT5-INSTALLATION-AUTOMATION/
 
 ---
 
-## 👤 Author
-
-**Kiran Kumar K**
-🎓 Computer Science Engineering Student
-🔗 GitHub: [@KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
-
----
-
 ## 📄 License
 
 Licensed under the [MIT License](LICENSE).
