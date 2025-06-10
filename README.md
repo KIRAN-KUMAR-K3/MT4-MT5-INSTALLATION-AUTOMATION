@@ -111,10 +111,3 @@ Licensed under the [MIT License](LICENSE).
 
 > ⭐️ If you found this helpful, consider giving the repo a star!
 
-````
-
-
-* A desktop shortcut script for launching MT5?
-* A `.desktop` file to integrate it into the applications menu?
-
-Let me know if you'd like help with those as well!
