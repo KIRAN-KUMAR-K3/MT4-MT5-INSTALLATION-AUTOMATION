@@ -18,13 +18,13 @@ Perfect for traders and developers who want to run MT4/MT5 natively on **Linux L
 ## 📸 Installation Preview
 
 <p align="center">
-  <img src="screenshots/step1.png" alt="Script Start" width="700"/>
+  <img src="Screenshorts/step1.png" alt="Script Start" width="700"/>
   <br/>
   <em>🔧 Automated script updating and configuring Wine</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/step2.png" alt="Installer Running" width="700"/>
+  <img src="Screenshorts/step2.png" alt="Installer Running" width="700"/>
   <br/>
   <em>📥 MetaTrader installer running via Wine</em>
 </p>
